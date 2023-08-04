@@ -23,7 +23,7 @@ Befora instalation, make sure you have created your db. Set  the db config in .e
 
 ```dosini
 DB_CONNECTION=mysql
-DB_HOST=mysql_db
+DB_HOST=db
 DB_PORT=3306
 DB_DATABASE=payment_db
 DB_USERNAME=root
