@@ -1,10 +1,5 @@
 # PAYMENT APP
 
-
-## Installation
-
-Befora instalation, make sure you have created your db. Set  the db config in .env file.
-
 ### Clone repository
 
 `git clone https://github.com/mayrajp/payment-app.git`
