@@ -47,5 +47,11 @@ DB_PASSWORD=root
 
 `php artisan migrate`
 
+### Open on browser
+
+`http://localhost:8989/`
+
+
+
 
 
